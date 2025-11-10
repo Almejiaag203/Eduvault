@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-  <title>I.E.E Carlos Augusto Salaverry</title>
+  <title>EduVault</title>
     <!-- Vincular el favicon -->
     <link rel="icon" type="image/png" href="img/logo.png">
 
@@ -42,7 +42,6 @@
     <div class="sidebar-brand-icon" style="padding: 5px;">
         <img src="img/logo.png" alt="Logo Sistema de Asistencias" style="width: 45px; height: 45px; object-fit: contain; border-radius: 5px;">
     </div>
-    <div class="sidebar-brand-text mx-3" style="color: #1a2a44;">Sistema de Asistencias</div>
 </a
 
     <!-- Divider -->
